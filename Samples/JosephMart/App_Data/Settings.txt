@@ -1,2 +1,2 @@
 DataProvider: sqlserver
-DataConnectionString: Data Source=ks45rzu9bn.database.windows.net;Initial Catalog=josephmart405;Integrated Security=False;Persist Security Info=False;User ID=Corom;Password=Azure!vm
+DataConnectionString: Data Source=<AzureMLServer>;Initial Catalog=<database>;Integrated Security=False;Persist Security Info=False;User ID=<user>;Password=<password>
